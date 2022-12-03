@@ -4,7 +4,9 @@
  * can do whatever you want with this stuff. If we meet some day, and you think
  * this stuff is worth it, you can buy me a beer in return | YieldingExploiter
  */
-/* https://ministyles.astolfo.gay/no-dark-reader.css */
+/* load the actual up-to-date stylesheet */
+@import url('https://ministyles.astolfo.gay/no-dark-reader.css');
+/* preload, as to not let the page render until the final stylesheet is loaded */
 html[data-darkreader-scheme] body {
   display: none;
 }
