@@ -1,4 +1,4 @@
-<h1 align="center">Moved!
+<h1 align="center">Moved!</h1>
 <h3 align="center">This project has moved!<br/>You can now find it in the Ministyles repository!<br/><br/>
 
 <a href="https://ministyles.astolfo.gay/">
