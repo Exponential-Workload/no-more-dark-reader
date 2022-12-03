@@ -1,12 +1,19 @@
-# No more dark reader!
-Is you site dark themed & does dark reader break your site? Look no further - Simply include any of the below in your codebase to solve the problem:
+<h1 align="center">Moved!
+<h3 align="center">This project has moved!<br/>You can now find it in the Ministyles repository!<br/>
 
-### CSS Import
-```css
-@import url("https://yieldingexploiter.github.io/no-more-dark-reader/no-dark-reader.css");
-```
-
-### HTML Link
-```html
-<link rel="stylesheet" href="https://yieldingexploiter.github.io/no-more-dark-reader/no-dark-reader.css" />
-```
+<a href="https://ministyles.astolfo.gay/">
+<kbd>
+<br/>
+&nbsp;&nbsp;Ministyles&nbsp;&nbsp;
+<br/>
+<br/>
+</kbd>
+</a>&nbsp;&nbsp;<a href="https://ministyles.astolfo.gay/no-dark-reader.css">
+<kbd>
+<br/>
+&nbsp;&nbsp;No More Dark Reader Stylesheet&nbsp;&nbsp;
+<br/>
+<br/>
+</kbd>
+</a>
+</h3>
