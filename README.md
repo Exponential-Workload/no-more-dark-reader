@@ -17,7 +17,4 @@
 </kbd>
 </a><br/><br/><br/>
 </h3>
-
-<style>
-@import url('https://ministyles.astolfo.gay/all.css');
-</style>
+  
